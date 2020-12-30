@@ -1,3 +1,4 @@
-# Todo-app-CLI
+# Notes-app-CLI
 
-A Todo-App using input from command line built with NodeJS.It has the basic functionalities of Adding a task,Deleting a task, Listing all the tasks and finding a particular task.
+A Note taking app using input from command line built with NodeJS.It has the basic functionalities of adding a note, deleting a note, listing all the current notes and finding a particular
+note.
